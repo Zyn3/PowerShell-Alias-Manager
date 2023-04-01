@@ -20,5 +20,5 @@ To use the script, you can run it from a PowerShell prompt. You can add, remove,
 
 > Note that when adding a new alias, you can specify the --global flag to make the alias available to all PowerShell sessions! By default, aliases are only available to the current user.
  
-###License
+### License
 This script is released under the MIT License. See LICENSE for more details.
